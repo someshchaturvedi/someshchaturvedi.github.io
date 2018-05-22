@@ -1,3 +1,3 @@
 # someshchaturvedi.github.io
 
-Web portfolio. Available at [someshchaturvedi.in](http://someshchaturvedi.in)
+Web portfolio. Available at [https://someshchaturvedi.in](https://someshchaturvedi.in)
