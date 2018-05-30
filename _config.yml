@@ -1,1 +1,29 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
 
+
+# edit here to achieve your personal greatness
+url: http://someshchaturvedi.github.io/
+baseurl: /
+title: Somesh Chaturvedi
+author: Somesh Chaturvedi
+description: Personal blog and resume
+avatar: somesh2.jpg
+email: schaturvedi@bt.iitr.ac.in
+github: someshchaturvedi # username
+twitter: somesh0828
+linkedin: username
+medium: somesh.08.96
+# stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+
+# needed for travis-ci build
+exclude: [vendor]
