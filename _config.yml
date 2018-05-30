@@ -10,7 +10,6 @@ port: 3000
 safe: true
 
 
-# edit here to achieve your personal greatness
 url: http://someshchaturvedi.github.io/
 baseurl: /
 title: Somesh Chaturvedi
@@ -18,12 +17,11 @@ author: Somesh Chaturvedi
 description: Personal blog and resume
 avatar: somesh2.jpg
 email: schaturvedi@bt.iitr.ac.in
-github: someshchaturvedi # username
+github: someshchaturvedi
 twitter: somesh0828
 linkedin: username
 medium: somesh.08.96
-# stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus
+facebook: Somesh-Chaturvedi/100004797498916
 
-# needed for travis-ci build
-exclude: [vendor]
+collections:
+    - projects
